@@ -19,3 +19,8 @@ Please cite the following paper:
 Girgis, H.Z. (2015) Red: an intelligent, rapid, accurate tool for
 detecting repeats de-novo on the genomic scale. BMC Bioinformatics,
 16, 227.
+
+## Ensembl fork 
+
+This fork adds option -frm 3 to produce 1-based inclusive coordinates for Ensembl,
+as needed in https://github.com/Ensembl/plant-scripts
